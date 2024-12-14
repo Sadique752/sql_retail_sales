@@ -20,5 +20,6 @@ This project focuses on analyzing retail sales data using SQL. It demonstrates h
 
 ## Data Exploration
 
-          [image](https://github.com/user-attachments/assets/e88635f8-9666-474a-aad2-fcfead05a3fb)
+![image](https://github.com/user-attachments/assets/0d09e7ff-0ef2-4a4f-a5db-61f7d45713e2)
+
 
