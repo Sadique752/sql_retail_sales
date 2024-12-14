@@ -18,3 +18,7 @@ This project focuses on analyzing retail sales data using SQL. It demonstrates h
 2. Rename columns for consistency.
 3. Validate data integrity.
 
+## Data Exploration
+
+          ![image](https://github.com/user-attachments/assets/e88635f8-9666-474a-aad2-fcfead05a3fb)
+
