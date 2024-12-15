@@ -24,8 +24,8 @@ This project focuses on analyzing retail sales data using SQL. It demonstrates h
 
 
 ## Data Analysis & Business Key Problems & Answers
-## Q. Write a SQL query to retrive all columns for sales made on '2022-11-05'
 
+## Q. Write a SQL query to retrive all columns for sales made on '2022-11-05'
 
 ![image](https://github.com/user-attachments/assets/a9a77b89-2c4c-422a-bc37-36daf705c172)
 
@@ -45,3 +45,16 @@ This project focuses on analyzing retail sales data using SQL. It demonstrates h
 
 ![image](https://github.com/user-attachments/assets/2ad91c95-05cd-43c3-b108-55d3bd81be44)
 
+## Q. Write a SQL query to find the total number of transaction (transaction_id) made by each gender in each category.
+
+![image](https://github.com/user-attachments/assets/dda901c9-e9e7-497c-8378-f959814dcbe5)
+
+## Q. Write a SQL query to find the top 5 customers based on the heighest total sales.
+
+![image](https://github.com/user-attachments/assets/e8cdb1c4-1264-4e11-9899-f465cd88b332)
+
+## Q. Write a SQL query to find the number of unique customers who purchased items from each category.
+
+![image](https://github.com/user-attachments/assets/13f2199c-9dac-4cfc-bab1-65b3c506d165)
+
+# End of project
